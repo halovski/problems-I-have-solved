@@ -1,0 +1,16 @@
+{
+  "name": "03.cinema",
+  "version": "1.0.0",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "mocha cinemaTests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
